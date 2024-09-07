@@ -1,0 +1,6 @@
+{
+    "name": "chip-assistant",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
